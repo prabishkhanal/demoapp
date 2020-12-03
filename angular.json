@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PracProject"
+    }
+  },
+  "defaultProject": "PracProject",
+  "cli": {
+    "analytics": false
+  }
 }
